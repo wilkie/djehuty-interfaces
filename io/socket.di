@@ -1,12 +1,6 @@
 module io.socket;
 
-import core.stream;
-import core.string;
-import core.definitions;
-
-import platform.vars.socket;
-
-import scaffold.socket;
+import djehuty;
 
 // Section: Core/Streams
 

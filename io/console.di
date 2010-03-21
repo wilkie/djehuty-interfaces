@@ -1,14 +1,6 @@
 module io.console;
 
-import scaffold.console;
-
-import synch.mutex;
-
-import core.string;
-import core.tostring;
-import core.unicode;
-import core.definitions;
-import core.variant;
+import djehuty;
 
 // Section: Enums
 

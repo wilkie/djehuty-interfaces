@@ -1,15 +1,6 @@
 module io.wavelet;
 
-import core.stream;
-import core.string;
-import core.definitions;
-import core.time;
-
-import io.audio;
-import io.console;
-
-import math.common;
-import math.vector;
+import djehuty;
 
 enum Interpolate {
 	Zeroth,

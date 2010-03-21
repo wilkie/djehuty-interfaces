@@ -7,13 +7,7 @@
 
 module io.file;
 
-import core.stream;
-import core.string;
-import core.definitions;
-
-import platform.vars.file;
-
-import scaffold.file;
+import djehuty;
 
 import io.directory;
 

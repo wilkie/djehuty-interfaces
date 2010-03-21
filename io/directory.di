@@ -8,17 +8,9 @@
 
 module io.directory;
 
-import core.string;
-import core.system;
-import core.definitions;
-import core.exception;
+import djehuty;
 
 import io.file;
-import io.console;
-
-import platform.vars.directory;
-
-import scaffold.directory;
 
 // Section: Core
 

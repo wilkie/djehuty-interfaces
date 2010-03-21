@@ -8,17 +8,7 @@
 
 module io.audio;
 
-import core.stream;
-import core.time;
-import core.event;
-
-import synch.semaphore;
-
-import platform.vars.wave;
-
-import scaffold.wave;
-
-import io.console;
+import djehuty;
 
 // Section: Types
 
